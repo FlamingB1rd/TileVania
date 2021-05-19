@@ -11,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Ground
+  - Climbing
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 693630743
+    locked: 0
+  - name: Ladders
+    uniqueID: 3095209489
     locked: 0
   - name: Middleground
     uniqueID: 3871020787
